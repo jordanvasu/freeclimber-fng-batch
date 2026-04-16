@@ -98,7 +98,7 @@ Rename files immediately after recording. If filenames do not follow this conven
 
 ### Advanced: five-vial videos
 
-You may record up to five vials simultaneously in a single video for efficiency. This requires a different filename convention and additional processing steps that are not covered in this manual. Contact the lab PI before attempting this.
+You may record up to five vials simultaneously in a single video for efficiency. This requires a different filename convention and additional processing steps that are not covered in this manual.
 
 ---
 
@@ -158,8 +158,6 @@ Clone both repos:
 git clone https://github.com/jordanvasu/FreeClimber-FNG.git
 git clone https://github.com/jordanvasu/FreeClimber-FNG-batch.git
 ```
-
-(Replace the URLs with the actual repo addresses from the PI.)
 
 ### Create the Python environment
 
